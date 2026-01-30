@@ -1,4 +1,5 @@
 class Solution(object):
+    """DN solucionado"""
     def isValid(self, s):
         """
         :type s: str
